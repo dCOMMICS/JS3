@@ -6,12 +6,12 @@
   "scripts": {
     "dev": "vite",
     "buid": "vite build"
-    
   },
   "keywords": [],
   "author": "ibrahim wong (dcommics)",
   "license": "ISC",
   "dependencies": {
+    "three": "^0.161.0",
     "vite": "^5.1.1"
   }
 }
