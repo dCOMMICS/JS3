@@ -1,0 +1,17 @@
+{
+  "name": "js3",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "vite",
+    "buid": "vite build"
+    
+  },
+  "keywords": [],
+  "author": "ibrahim wong (dcommics)",
+  "license": "ISC",
+  "dependencies": {
+    "vite": "^5.1.1"
+  }
+}
