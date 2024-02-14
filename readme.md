@@ -24,6 +24,7 @@
 
 ```
 
+# how to set-up on VSCODE
 <!-- writting a GOOD README -->
 
 <!-- # Heading 1
