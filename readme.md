@@ -1,4 +1,12 @@
 # Welcome to THREE.JS Learning Curve.....
+
+<div align="center"> 
+  
+###  Coming Soon
+
+![https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif](https://miro.medium.com/v2/resize:fit:996/0*uhwpfnmaJZXdL3Cq.gif)
+
+</div>
 # Prerequisites:
 
  * ` HTML `
@@ -26,9 +34,9 @@
 
 # Sample three.js scene
 ```javascript
-console.log('this')
+// console.log('this')
 
-alert('stop smoking weed derrick');
+// alert('stop smoking weed derrick');
 
 import * as THREE from 'three'
 
@@ -89,7 +97,12 @@ renderer.render(scene, camera)
 
 # how to set-up on VSCODE
 
-* step 1: _RUN_ npm init - y *
+_this should be done on VS terminal_
+* step 1: _run:_ npm init - y (this should create a package.json file)
+* step 2: _run:_ npm i / install vite 
+* step 3: _run:_ npm install three
+
+
 
 <!-- writting a GOOD README -->
 
