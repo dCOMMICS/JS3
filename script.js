@@ -30,6 +30,7 @@ const sizes = {
     width:800,
     height:600
 }
+
 // camera
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height)
 camera.position.z = 4
