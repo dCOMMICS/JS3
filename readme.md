@@ -83,6 +83,10 @@ renderer.render(scene, camera)
 
 
 ```
+![](/Screenshot%20(117).png)
+
+
+
 # how to set-up on VSCODE
 <!-- writting a GOOD README -->
 
