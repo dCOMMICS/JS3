@@ -39,9 +39,8 @@ const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height)
 
 //  when the z position is higher the the image is seen froma far behind.
 
-mesh.position.y=1
-mesh.position.x= 4
-mesh.position.z= 1
+
+mesh.position.y= 4
 scene.add(camera)
 
 // rendering
