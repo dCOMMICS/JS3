@@ -17,6 +17,7 @@ mesh.position.y= -0.6
 mesh.position.z= 1
 scene.add(mesh)
 
+
 /**
  * Sizes
  */
