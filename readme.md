@@ -88,6 +88,9 @@ renderer.render(scene, camera)
 
 
 # how to set-up on VSCODE
+
+* step 1: _RUN_ npm init - y *
+
 <!-- writting a GOOD README -->
 
 <!-- # Heading 1
