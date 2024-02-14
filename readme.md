@@ -23,3 +23,6 @@ Combined emphasis with **asterisks and _underscores_**.
 [I'm an inline-style link with title](https://www.google.com "Google's Homepage")
 
 ![descriptive alt text](https://github.com/adam-p/markdown-here/raw/master/src/common/images/icon48.png "Logo Title Text 1") -->
+
+
+<!-- https://learn.microsoft.com/en-us/office/vba/language/reference/user-interface-help/color-constants -->
