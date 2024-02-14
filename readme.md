@@ -99,6 +99,7 @@ renderer.render(scene, camera)
 
 _this should be done on VS terminal_
 * step 1: _run:_ npm init - y (this should create a package.json file)
+change the package.json file or add some script.
 * step 2: _run:_ npm i / install vite 
 * step 3: _run:_ npm install three
 
