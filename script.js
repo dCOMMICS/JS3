@@ -4,6 +4,7 @@ alert('stop smoking weed derrick');
 
 import * as THREE from 'three'
 
+// canvas
 const canvas = document.querySelector('canvas.webgl')
 console.log(canvas)
 
@@ -11,6 +12,8 @@ console.log(THREE)
 const scene = new THREE.Scene()
 
 const myGeometry = new THREE.SphereGeometry(1.5, 32, 32)
+
+
 
 
 // scene create
@@ -33,7 +36,9 @@ const sizes = {
 
 // camera
 const camera = new THREE.PerspectiveCamera(75, sizes.width / sizes.height)
+
 //  when the z position is higher the the image is seen froma far behind.
+
 camera.position.z = 4
 // camera.position.y = -2
 scene.add(camera)
